@@ -3,3 +3,4 @@ Java Home also provide trainings on snowflake
 We are starting webinars on devops soon
 Tomorrow we have demo on aws migration
 We will learn kubernetes in this training
+This is added in remote
