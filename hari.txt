@@ -5,3 +5,4 @@ Tomorrow we have demo on aws migration
 We will learn kubernetes in this training
 This is added in remote
 we will learn docker
+Git is opensoure and popular
